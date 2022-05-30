@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1> FORMULARIO DE REALIMENTACION </h1>
+    <p>LLENE ESTE FORMULARIO PARA AYUDARNOS A MEJORAR NUESTRO SITIO </p>
+<form  action="index.html" method="post">
+
+  <p>
+<label > NOMBRE:
+  <input type="text" name="nombre " name="redirigir" size="25" maxlength="30">
+</label></p>
+<p>
+<input type="submit" value="enviar">
+<input type="reset"  value="borar"></p>
+<p> <label>COMENTARIOS:<br>
+  <textarea name="COMENTARIOS" rows="4" cols="36"></textarea> </label></p>
+  <p> <label>DIRECCION DE CORREO ELECTRONICO :
+<input name="EMAIL" type="4" size="26"> </label></p>
+<p></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</form>
+</body>
+</html>
